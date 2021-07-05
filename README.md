@@ -13,6 +13,14 @@ are explored using systematic process called CRISP-DM
 
 - madrid_airbnb.ipynb : It contains all the technical details backing up the blog
 
+## Libraries
+
+- numpy==1.19.5
+- pandas==1.2.3
+- seaborn==0.11.1
+- folium==0.12.1
+- geopandas==0.9.0
+
 
 ## Data
 Data used is from the following link:
@@ -23,3 +31,6 @@ From the analysis, most affordable neigbourhoods are presented. Along with most 
 
 ## Link to the blog post
 https://medium.com/@anudeeppeela9/madrid-airbnb-what-are-affordable-neighbourhoods-for-rentals-ddbdaa1a7f2
+
+## Acknowledgements
+I would thank Udacity for guidance , Airbnb for the data
